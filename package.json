@@ -1,0 +1,14 @@
+{
+ "nom": "les-jolies-colonies",
+ "privé": vrai,
+ "scripts": {
+ "dev": "développement de la chaîne",
+ « Construire » : « construction de la province »,
+ "début": "début de la chaîne"
+ },
+ "dépendances": {
+ "suivant": "14.1.0",
+ "réagir": "18.2.0",
+ "react-dom": "18.2.0"
+  }
+}
