@@ -1,2 +1,2 @@
 # CVLONISS
-Official website for Les Jolies Colonies de Vacances (Tourisme et Loisirs) – children holiday camps and educational stays in Côte d’Ivoire.
+Site officiel des Jolies Colonies de Vacances (Tourisme et Loisirs) – colonies de vacances pour enfants et jours éducatifs en Côte d'Ivoire.
