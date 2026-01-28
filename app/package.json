@@ -1,1 +1,19 @@
 
+{
+  "nom": "les-jolies-colonies",
+  "privé": vrai,
+  "scripts": {
+    "dev": « Développement de la chaîne »,
+    "construire": « Prochaine construction et prochaine exportation »
+  },
+  "dépendances": {
+    "suivant": "14.1.0",
+    "réagir": "18.2.0",
+    "react-dom": "18.2.0",
+    "vent arrièrecss": "^3.4.0",
+    "postcss": "^8.4.0",
+    "autoprefixateur": "^10.4.0",
+    "motion du cadre": "^11.0.0",
+    "réaction lucide": "^0.300.0"
+  }
+}
